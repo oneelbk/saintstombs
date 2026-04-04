@@ -449,17 +449,17 @@ Poreč, Istria County
 
 Rijeka, Primorsko-goranska Županija/County
 
-- Crkva Uznesenja Blažene Djevice Marije/Church of the Assumption of the Blessed Virgin Mary
+- Crkva Uznesenja Blažene Djevice Marije/Church of the Assumption of the Blessed Virgin Mary (Ul. Pavla Rittera Vitezovića 3)
 
   - St. Marcijan of Rijeka/Marcian of Rome, senator/martyr, 9/16 (partially
     incorrupt; bočni oltar sv. Antuna Padovanskog/side altar of St. Anthony
     of Padua)
 
-- Kriptu kapucinske crkve Gospe Lurdske u Rijeci/Crypt of the Capuchin Church of Our Lady of Lourdes
+- Kriptu kapucinske crkve Gospe Lurdske u Rijeci/Crypt of the Capuchin Church of Our Lady of Lourdes (Kapucinske stube 5)
 
   - Ven. Ante Josip/Antonio Tomičić, Capuchin priest, d. 11/25/1981
 
-- Groblju Kozala/Kozala cemetery
+- Groblju Kozala/Kozala cemetery (Ul. Petra Kobeka 13)
 
   - Servant of God Marija Krucifiksa Kozulić, foundress, d. 9/29/1922
 
