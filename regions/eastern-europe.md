@@ -582,6 +582,10 @@ Famagusta, Gazimağusa District
   - St. Pierre Thomas (nee Pierre de Salignac de Thomas), O.Carm., Latin
     patriarch of Constantinople, 1/6 (grave lost)
 
+Larnaca, Larnaca District
+- Ιερός Ναός Αγίου Λαζάρου/Church of Saint Lazarus (Agios Lazaros)
+  - Άγιος Λάζαρος/St. Lazarus the Resurrected, Christ's friend/a bishop, the Saturday before Holy Week/the Saturday before Palm Sunday
+
 Limassol
 
 - ???
@@ -630,7 +634,7 @@ Troodos, Paphos District
 
   - St. Paul of Cyprus, monk, martyr, 3/17
 
-# Czech Republic
+# Czech Republic/Czechia
 
 České Budějovice/Budweis, České Budějovice district, South Bohemian
 region
@@ -820,6 +824,10 @@ Prague, Ďáblice municipal district, District 8, Prague Region
   - Servant of God Josef Toufar, priest/martyr, d. 2/25/1950 (buried in a
     mass grave)
 
+Prague, Hradčany
+- Kostel sv. Benedikta/Church of St. Benedict (Hradčanské náměstí 184; within the Prague Castle complex)
+  - Ven. Maria Eletta di Gesù (née Caterina) Tramazzoli, OCD, religious, d. 1/11/1663 (incorrupt)
+
 Prague, Strahovské nádvoři in the Hradčany district
 
 - Královská kanonie premonstrátů na Strahově/Royal Premonstratensian
@@ -840,7 +848,7 @@ Sázava, Benešov district, Central Bohemia
 
 - Sázavský klášter/Sázava Monastery
 
-  - Ss. Boris and Gleb, brother martyrs, 7/24 (relics only) (said to be
+  - faSs. Boris and Gleb, brother martyrs, 7/24 (relics only) (said to be
     "inserted into one of the altars")
 
   - St. Prokop/Procopius, OSB, abbot, 3/25
@@ -925,6 +933,12 @@ Aegina Island
 
   - St. Nectarios of Aegina, Metropolitan, 11/9 (recent Greek Orthodox
     saint)
+
+Aigialeia/Αιγιάλεια, Achaea, West Greece Peloponnese
+- Ιερά Μονή των Παμμεγίστων Ταξιαρχών/Sacred Monastery of the Holy Angels/Monastery of the Pammegiston Taxiarchon
+  - Icon of the Taxiarchis (Archangel Michael, made from the mud and blood of martyred monks)
+  - Αγία Κυριακή/St. Kyriaki the Great Martyr, female martyr, 7/7
+  - Άγιος Λεόντιος o Μονεμβασιώτης/St. Leontius of Monemvasia, 12/11 (incorrupt)
 
 Ampelokipi, district of Athens (Αμπελόκηποι (συνοικία της Αθήνας))
 
@@ -2164,10 +2178,16 @@ Kalisz, Greater Poland voivodeship
 
   - St. Padre Pio (relic only)
 
-Keeper of the log of all the miracles attributed to St. Joseph's
-intercession
+  - Keeper of the log of all the miracles attributed to St. Joseph's intercession
 
-Miraculous painting of St. Joseph
+  - Miraculous painting of St. Joseph
+
+Kalwaria Pacławska, Fredropol, Przemyśl
+- Bazylika Znalezienia Krzyża Świętego i klasztor Franciszkanów Konwentualnych/Basilica of the Discovery of the Holy Cross (Kalwaria Pacławska 40)
+  - Obraz Matki Bożej Kalwaryjskiej (Cierpliwie Słuchającej)/The painting of Our Lady of Kalwaria (Listening Patiently)
+  - Relics of the Holy Cross, St. Faustina Kowalska, St. John Paul II, St. Florian, St. Thecla, St. Francis of Assisi, St. Anthony of Padua, St. Joseph of Cupertino, Bl. Strzemię, St. Josaphat Kuncewicz, Blessed Zbigniew Strzałkowski, Bl. Michał Tomaszek, St. Valentine, St. Stanislaus Kostka
+  - Ven. Wenanty (née Józef) Katarzyniec, OFM Conv., priest, d. 3/31/1921
+
 
 Kalwaria Zebrzydowska, Gmina Kalwaria Zebrzydowska, Wadowice County,
 Lesser Poland Voivodeship
