@@ -46,6 +46,10 @@ Acireale, Province of Catania, Sicily
   - Bl. Gabriele (née Giovanni Stefano) Allegra (雷永明), OFM, 1/26 (relics
     only)
 
+- Chiesa dell’Oratorio di San Filippo Neri (Via Padri Filippini, 2)  
+
+  - Ven. Giovanni Battista Arista, CO, bishop, d. 9/27/1920
+
 Acquapendente, Viterbo Province, Lazio region
 
 - Chiesa di San Flaviano/St. Flavian Church
@@ -2190,6 +2194,12 @@ Caltagirone, Metropolitan City of Catania, Sicily
 
   - Servant of God Luigi Sturzo, priest/politician, d. 8/8/1959
 
+Caltanissetta, Province of Caltanissetta, Sicily
+
+- Chiesa del Signore della Città/Santuario del Signore della Città/Church of the Lord of the City (Via San Nicolò 25)
+
+  - Ven. Angelico da Caltanisetta (née Vincenzo) Lipàni, OFM Cap., priest/founder, d. 7/9/1920
+
 Calvi Risorta, Province of Caserta, Campania region
 
 - Concattedrale di Santa Maria Assunta/St. Mary of the Assumption Co-Cathedral
@@ -2981,7 +2991,7 @@ Certaldo, Province of Firenze, Toscana region
   - Bl. Giulia della Rena of Certaldo, virgin/hermitess/religious, 1/9 &
     2/15
 
-Giovanni Boccacio, famous writer (not a saint)
+  - Giovanni Boccacio, famous writer (not a saint)
 
 Cervere, Province of Cuneo, Piemonte region
 
@@ -2989,13 +2999,19 @@ Cervere, Province of Cuneo, Piemonte region
 
   - Bl. Bartolomeo Cerveri, OP, priest/martyr, 4/21
 
+Cesano Boscone, Metropolitan city of Milan
+
+- Istituto Sacra Famiglia (Piazza Monsignor Luigi Moneta, 1)
+
+  - Servant of God Domenico Pogliani, priest, d. 6/12/1921 (Chiesa dell'Istituto, beside the main altar)
+
 Cesena, Province of Forlì-Cesena, Emilia-Romagna region
 
 - Cattedrale di San Giovanni Battista/Cathedral of St. John the Baptist
 
   - St. Mauro/Maurus of Cesena, bishop, 11/21
 
-Convento dei Cappuccini di Cesena
+- Convento dei Cappuccini di Cesena
 
   - Ven. Guglielmo da Badi (née Oscar Gattiani), OFM Cap, priest, d.
     12/15/1999
@@ -8453,9 +8469,11 @@ Parma
 
   - St. Guido Maria Conforti, archbishop, 3/17
 
-- Motherhouse, Piccole Figlie dei Sacri Cuori di Gesù e Maria, Piazzale S. Giovanni, 7
+- Piccole Figlie dei Sacri Cuori di Gesù e Maria (Piazzale S. Giovanni, 7)
 
   - Ven. Augustine Chieppi, priest, founder, 9/7/1891
+
+  - Bl. Eugenia Picco, religious, 9/7
 
 - Motherhouse, Società Missionaria di Maria
 
@@ -8478,8 +8496,6 @@ Parma
   - Bl. Anna Maria Adorni, foundress, 2/7
 
   - Servant of God Dario Porta, priest, d. 4/4/1996
-
-  - Bl. Eugenia Picco, religious, 9/7
 
   - St. Giovanni da Parma, abbot, 5/22
 
@@ -10203,6 +10219,10 @@ Rome (Roma)
 - Casa di Santa Brigida (Via delle Isole, 34)
 
   - Servant of God Maria Maddalena di Gesù Crocifisso (née Emenegilda) Moccia, O.SS.S., d. 4/22/1922
+
+- Casa delle Figlie di Nostra Signora del Sacro Cuore (via Alessandro Brisse 2)
+
+  - Servant of God Agostina di Gesù (née Ida Maria Vittoria) Cassi, foundress, d. 7/8/1921
 
 - Casa dell'Istituto di Suore Missionarie dei Sacri Cuori di Gesù e Maria/Missionary Sisters of the Sacred Hearts of Jesus and Mary (Via
 del Trullo 372)
