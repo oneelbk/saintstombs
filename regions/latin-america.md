@@ -894,6 +894,8 @@ Rio de Janeiro, South Zone, Gávea bairro/neighborhood
 
 - Igreja Nossa Senhora da Conceição
 
+  - Servant of God Jerônimo Magalhães, layman, d. 8/12/1909
+
   - Servant of God Maria do Santíssimo Sacramento (née Elisa “Zélia”) Pedreira Abreu Magalhães, widow/religious, d. 9/8/1919
 
 Rio Pardo, Rio Grande do Sul state
@@ -2060,11 +2062,19 @@ Cuquío, Cuquío Municipality, Jalisco, Mexico
 
   - St. Justino Orona Madrigal, martyr, 7/1
 
+Degollado, Jalisco State
+
+- La Parroquia de Nuestra Señora de Guadalupe/Church of Our Lady of Guadalupe (Lázaro Cárdenas No. 6, Col. Centro)
+
+  - Servant of God María de San José "Josefa" Parra Flores, martyr for chastity, d. 12/24/1917
+  
+  - Servant of God Colette Meléndez Torres, martyr for chastity, d. 12/24/1917
+
 Durango, Durango state
 
 - ???
 
-Servants of God Fernando de Santaren and 7 companion Jesuit martyrs of Tepehuanes
+  - Servants of God Fernando de Santaren and 7 companion, Jesuit martyrs of Tepehuanes, d. 11/16-20/1616
 
 Ecuandureo, Michoacan
 
@@ -2077,12 +2087,6 @@ El Tarengo, La Barca, Jalisco state
 - ???
 
   - Servant of God Ramón Sáinz Orozco, husband/father/grocery store owner/martyr, d. 3/15/1937
-
-Fesnillo
-
-- ???
-
-  - The Child of Atocha
 
 Guadalajara, Jalisco
 
@@ -2112,11 +2116,17 @@ Guadalajara, Jalisco
 
   - Servant of God Federico de Aguinaga López, layman, d. 12/16/1995
 
-- Parroquia de Jesús
+- Parroquia Dulce Nombre de Jesús/Parroquia de Jesús (C. Garibaldi S/N, ESQ JESUS, Jesús)
+
+  - 8 companions of Bl. José Anacleto González Flores
 
 - Parroquia de San José de Analco
 
   - Bl. José Dionisio Luis Padilla Gómez, martyr, 4/1
+
+- Templo de Jesús María (Morelos No. 612, Centro Histórico)
+
+  - Virgen del Rayo (Our Lady of the Rosary of the Lightning Bolt), 8/13
 
 - Templo de Nuestra Señora del Refugio
 
@@ -2173,6 +2183,10 @@ Hermosillo, Sonora
   - Servant of God Juan María Navarrete Guerrero, archbishop, d. 2/21/1982
 
 Irapuato, Guanajuato state
+
+- Casa Central Familia de Corde Jesu (Calle Casuarina N° 610)
+
+  - Servant of God María Magdalena de la Reparación (née Josefa Brígida de Jesús) Vargas Galeana, FCJ, foundress, d. 1/20/1917
 
 - ???
 
@@ -2416,13 +2430,19 @@ Pátzcuaro, Michoacán state
 
   - Ven. Vasco de Quiroga, bishop, d. 5/14/1565
 
+Plateros, Zacatecas
+
+- Santuario de Plateros (Calle Hidalgo s/n)
+
+  - The Child of Atocha
+
 Puebla
 
 - Cathedral
 
   - Bl. Juan Palafox y Mendoza, archbishop, d. 10/1/1659 (cenotaph) (Capilla de las Reliquias)
 
-  - Ven. Ramon Ibarra Gonzalez, archbishop, d. 2/1/1917 (Arzobispado de Puebla, Aptdo. 235. Av. 2 sur N. 305)
+  - Ven. Ramon Ibarra Gonzalez, archbishop, d. 2/1/1917 
 
 San Francisco, Chapel of the Virgin of the Conquest
 
@@ -2565,6 +2585,12 @@ Teul, Teúl de González Ortega Municipality, Zacatecas
 - Templo de San Juan Bautista
 
   - St. Agustín Caloca Cortés, priest/martyr, 5/21 or 5/25
+
+Tijuana, Baja California state
+
+- Parroquia de Nuestra Señora de la Asunción (Cayumito 25, Col. Fracc. Las Huertas, 1a. Secc.)
+
+  - Mother Antonia (née  Mary Clarke) Brenner, ESEH, foundress, d. 10/17/2013 (non-causa, but they're actively working to get her cause going)
 
 Tlaquepaque, Jalisco state
 
@@ -2817,6 +2843,12 @@ Chosica, Lurigancho-Chosica district, Province of Lima
 
   - Servant of God Serapio Rivero Nicolás, OSA, priest, d. 11/24/2002
 
+Ciudad Eten/Santa Magdalena de Ciudad Eten, Chiclayo Province, northern region
+
+- Parroquia Santa María Magdalena (Calle Unión 746)
+
+  - Divino Niño del Milagro/Divine Child of the Eucharistic Miracle of Eten
+
 Ciudad Obregón, Cajeme municipality, Sonora state
 
 - Catedral del Sagrado Corazón de Jesús
@@ -2931,13 +2963,15 @@ Lima
 
   - Ven. Teresa de la Cruz Candamo Álvarez Calderón, religious, d. 8/24/1953
 
+- Monasterio de Nuestra Señora del Prado/Convent of Our Lady of el Prado (Jirón Junín 1411 in the Barrios Altos neighborhood near Cinco Esquinas)
+
+  - Ven. Raffaella della Passione Veintemilla Villacís, foundress, d. 11/25/1918
+
 - Religiosas Franciscanas de la Inmaculada Concepción - Casa Madre F.I.C. (Jr. Bolognesi 651, Magdalena del Mar)
 
   - Servant of God María Josefa Camila Del Carmen (Clara del Corazón de María) Álvarez Salas, foundress, d. 2/25/1924
 
 - ???
-
-  - Ven. Raffaella della Passione Veintemilla Villacís, foundress, d. 11/25/1918
 
   - Bl. Sebastian de la Cruz of the Holy Spirit, O. de M., lay brother, 7/17 (maybe at Basílica y convento de Nuestra Señora de la Merced, a Mercedarian church, but there were several in Lima) (not formally beatified)
 
@@ -3173,7 +3207,7 @@ Maracay, Aragua state
 
 - Santuario de la Madre María de San José (located between López Aveledo Street and Bolívar Avenue)
 
-  - Bl. María de San José (née Laura Evangelista) Alvarado Cardozo, OAR, religious, 4/2
+  - Bl. María de San José (née Laura Evangelista) Alvarado Cardozo, OAR, religious, 4/2 (incorrupt)
 
 Mérida (Santiago de los Caballeros de Mérida), Libertador municipality, Mérida state
 
